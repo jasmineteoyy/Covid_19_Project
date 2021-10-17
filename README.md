@@ -1,4 +1,4 @@
-## Identifying Top Features for Covid-19 Dataset (Data 100 Project)
+## Feature Selection for Covid-19 Dataset (Data 100 Project)
 
 Links to the csv's provided:
 
